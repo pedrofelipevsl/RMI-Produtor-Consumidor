@@ -4,7 +4,7 @@
 Demonstração do vídeo:
 https://drive.google.com/file/d/1tSPc2Or1Mw3x9tWVZdhxbux75G2gYFQK/view?usp=sharing
 
-ECLIPSE
+NetBeans
 
 * Rodar SERVER
 * Clica com o botão direito no RmiServer
