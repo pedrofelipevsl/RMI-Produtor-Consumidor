@@ -1,0 +1,8 @@
+rmi\RmiServer.class
+semaforo\Semaphore.class
+processos\Consumer.class
+rmi\ReceiveMessageInterface.class
+semaforo\PC.class
+com\mycompany\sd\rmi\produtor\consumidor\SDRMIPRODUTORCONSUMIDOR.class
+processos\Producer.class
+rmi\RmiClient.class
